@@ -1,4 +1,4 @@
-# Firebase Studio
+#ResumeCrafter
 
 This is a NextJS starter in Firebase Studio.
 
